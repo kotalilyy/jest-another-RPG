@@ -1,18 +1,19 @@
-# jest-another-RPG
-
-![potions](https://user-images.githubusercontent.com/77229281/114554209-146b4300-9c2c-11eb-8d08-42054a1ef263.jpg)
+# jest another RPG
 
 ## Description
 
-I created a command-line role-playing game (RPG) in which a user battles against a series of enemies whose health and stats can be sustained by a potion.
+A command-line role-playing game (RPG) in which a user battles against a series of enemies whose health and stats can be sustained by a potion.
 
 ## Table of Contents
 
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Credits](#credits)
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
+  - [Questions](#questions)
 
 ## Installation
 
@@ -22,9 +23,8 @@ npm install inquirer
 
 ## Credits
 
-[npm](https://www.npmjs.com/)
+[npm inquirer](https://www.npmjs.com/package/inquirer)
 
-<a href="https://www.freepik.com/vectors/love">Love vector created by pch.vector - www.freepik.com</a>
 
 ## License
 
@@ -36,6 +36,8 @@ Created with ❤️ by Dakota Nelson
 
 ## Tests
 
-Object-oriented programming (OOP)
+None
 
-Test-driven development (TDD)
+## Questions
+
+Email me at kotalilyy@gmail.com for any questions
