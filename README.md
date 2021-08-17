@@ -4,7 +4,7 @@
 
 ## Description
 
-A command-line role-playing game where a user battles against a series of enemies whose health and stats can be sustained by a potion.
+A command line role-playing game where a user battles against a series of enemies whose health and stats can be sustained by a potion.
 
 ## Contributing 
 
@@ -12,4 +12,4 @@ Created with ❤️ by Dakota Nelson
 
 ## Questions
 
-Email me at kotalilyy@gmail.com for any questions
+Email me at kotalilyy@gmail.com 
