@@ -1,42 +1,14 @@
-# jest another RPG
+# jest-another-RPG
+
+![bottle](https://user-images.githubusercontent.com/77229281/129700965-0e3bd36b-dfe3-4271-a561-b7acb6d03c5b.png)
 
 ## Description
 
-A command-line role-playing game (RPG) in which a user battles against a series of enemies whose health and stats can be sustained by a potion.
-
-## Table of Contents
-
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
-
-## Installation
-
-```bash
-npm install inquirer
-```
-
-## Credits
-
-[npm inquirer](https://www.npmjs.com/package/inquirer)
-
-
-## License
-
-None
+A command-line role-playing game where a user battles against a series of enemies whose health and stats can be sustained by a potion.
 
 ## Contributing 
 
 Created with ❤️ by Dakota Nelson
-
-## Tests
-
-None
 
 ## Questions
 
