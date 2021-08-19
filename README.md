@@ -6,7 +6,7 @@
 
 A command line role-playing game where a user battles against a series of enemies whose health and stats can be sustained by a potion.
 
-## Contributing 
+## Contributions
 
 Created with ❤️ by Dakota Nelson
 
